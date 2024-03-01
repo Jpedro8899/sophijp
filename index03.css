@@ -1,3 +1,16 @@
+
+#botao{
+    background-color: black;
+    color: white;
+    
+}
+
+#texto{
+    width: 100px;
+    height: 20px;
+}
+
+
 #titulo{
     color:  red;
 
@@ -13,3 +26,4 @@
     font-size: 16px;
     background-size: 150px;
 }
+
