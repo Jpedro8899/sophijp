@@ -1,4 +1,10 @@
-div01{
-
+#botao{
+    background-color: black;
+    color: white;
+    
+}
+#texto{
+    width: 100px;
+    height: 20px;
 }
 
