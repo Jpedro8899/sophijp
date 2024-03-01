@@ -1,3 +1,4 @@
+
 #botao{
     background-color: black;
     color: white;
@@ -7,5 +8,22 @@
 #texto{
     width: 100px;
     height: 20px;
+}
+
+
+#titulo{
+    color:  red;
+
+}
+#paragrafo{
+    font-weight: bold;
+}
+#imagem{
+    width: 400px;
+    height: 600px;
+    background-image: url(imagemgato.jpeg) ;
+    text-shadow: white 0px 0px 2px;
+    font-size: 16px;
+    background-size: 150px;
 }
 
